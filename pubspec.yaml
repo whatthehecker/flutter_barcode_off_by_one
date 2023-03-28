@@ -36,7 +36,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   # Datamatrix generation is incorrect from version 2.2.2 onwards
-  barcode: 2.2.1
+  barcode: 2.2.2
   flutter_svg: ^2.0.4
   path_provider: ^2.0.14
 
